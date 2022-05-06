@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Ji-Hyung Park.
-- I'm a neurologist, and a Ph.D student working on genome bioinformatics.
+- I'm a neurologist, and a Ph.D student working on the genome bioinformatics.
 - I'm developing a handy interface which helps **_manually examining_** somatic mutations with WGS raw data.
-- 👀 I'm interested in ways how NGS technologies can help answer questions related to clinical neurology.
+- 👀 I'm interested in ways how NGS technologies can help answer questions related to the clinical neurology.
 - 🏢 Affiliation: KAIST (Korea Advanced Institute of Science and Technology), Republic of Korea.
 - 📫 email: p69180@gmail.com
 
